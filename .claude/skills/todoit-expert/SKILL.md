@@ -11,6 +11,7 @@ wiki: true
 <!-- BEGIN:PAGES -->
 - [repo-layout](repo-layout.md) — The checkout holds two git repos, code at the root on develop and planning in a nested scratch/ repo on main, and which one each change and git command belongs to
 - [worktree-lanes](worktree-lanes.md) — How lane open lays out a worktree lane beside the main checkout and what it forks from, and how to remove or resume a lane by hand on Windows
+- [fun-principles](fun-principles.md) — The transcript principles that define fun for todoit (impact, reward, challenge, fantasy, people differ) and the rule each sets for an interaction
 <!-- END:PAGES -->
 
 ## Meta
